@@ -160,7 +160,7 @@ Whether you are a business leader seeking strategic insights, a professional aim
 <div id="resources" class="section resources">
     <h2>Resources</h2>
     <div class="resource-link">
-        📄 <a href="https://drive.google.com/your-pdf-link-1" target="_blank">Introduction to Data Analytics (PDF)</a>
+        📄 <a href="https://drive.google.com/file/d/1vwKbyjVilHErdS5Ao5Qw1gWP2mZu_3Ut/view?usp=sharing">How Credit Analysis is Done</a>
     </div>
     <div class="resource-link">
         📄 <a href="https://drive.google.com/your-pdf-link-2" target="_blank">Business Strategy 101 (PDF)</a>
