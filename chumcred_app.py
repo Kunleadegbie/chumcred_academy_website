@@ -169,6 +169,11 @@ Whether you are a business leader seeking strategic insights, a professional aim
     <div class="resource-link">
         📄 <a href="https://drive.google.com/file/d/1bjMkLQeG2oqDVc811fksMlIV42s-GVrx/view?usp=sharing">Advanced International Credit Management</a>
     <div class="resource-link">
+	📄 <a href="https://drive.google.com/file/d/1Dw-r_5f-NNNadB27vR1sML7qtHwch73w/view?usp=sharing">Emotional Intelligence for Sales Success</a>
+    <div class="resource-link">
+	📄 <a href="https://drive.google.com/file/d/19gTwZn71n5hV6l3r9IXgfPkrfJSO9RIo/view?usp=sharing">Sales Prospecting and Lead Generation</a>
+    <div class="resource-link">
+
     <!-- Add more resource links here -->
 </div>
 
