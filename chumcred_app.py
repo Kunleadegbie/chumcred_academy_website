@@ -165,7 +165,7 @@ Whether you are a business leader seeking strategic insights, a professional aim
         📄 <a href="https://drive.google.com/file/d/1kELMpX5WmXGESzidqj44uv2E8TUQfcnM/view?usp=sharing">Advanced Credit Management</a>
     </div>
 <div class="resource-link">
-        📄 <a href="https://drive.google.com/file/d/13uKwU1YKd2SLcWRKZbe4fghECp8PlQTR/view?usp=sharing">Advanced Credit Management</a>
+        📄 <a href="https://drive.google.com/file/d/13uKwU1YKd2SLcWRKZbe4fghECp8PlQTR/view?usp=sharing">Digital Credit Management</a>
     <div class="resource-link">
         📄 <a href="https://drive.google.com/file/d/1bjMkLQeG2oqDVc811fksMlIV42s-GVrx/view?usp=sharing">Advanced International Credit Management</a>
     <div class="resource-link">
