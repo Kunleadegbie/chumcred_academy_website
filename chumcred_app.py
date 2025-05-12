@@ -161,10 +161,14 @@ Whether you are a business leader seeking strategic insights, a professional aim
     <h2>Resources</h2>
     <div class="resource-link">
         📄 <a href="https://drive.google.com/file/d/1vwKbyjVilHErdS5Ao5Qw1gWP2mZu_3Ut/view?usp=sharing">How Credit Analysis is Done</a>
-    </div>
     <div class="resource-link">
-        📄 <a href="https://drive.google.com/your-pdf-link-2" target="_blank">Business Strategy 101 (PDF)</a>
+        📄 <a href="https://drive.google.com/file/d/1kELMpX5WmXGESzidqj44uv2E8TUQfcnM/view?usp=sharing">Advanced Credit Management</a>
     </div>
+<div class="resource-link">
+        📄 <a href="https://drive.google.com/file/d/13uKwU1YKd2SLcWRKZbe4fghECp8PlQTR/view?usp=sharing">Advanced Credit Management</a>
+    <div class="resource-link">
+        📄 <a href="https://drive.google.com/file/d/1bjMkLQeG2oqDVc811fksMlIV42s-GVrx/view?usp=sharing">Advanced International Credit Management</a>
+    <div class="resource-link">
     <!-- Add more resource links here -->
 </div>
 
