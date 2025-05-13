@@ -302,7 +302,7 @@ Stay tuned for updates via our website and newsletter as we prepare to unveil fi
 <div id="contact" class="section contact">
     <h2>Contact Us</h2>
 <p  style="text-align: justify;">
-📞 <b>Connect With Us </b>
+📞 <b>Connect With Us </b> <br>
 At Chumcred Academy, we are passionate about helping you unlock your full potential, navigate today’s complexities, and lead boldly into the future. 
 For inquiries, partnership opportunities, or to register for our upcoming training programs: </p>
 
