@@ -167,12 +167,19 @@ Whether you are a business leader seeking strategic insights, a professional aim
 <div class="resource-link">
         📄 <a href="https://drive.google.com/file/d/13uKwU1YKd2SLcWRKZbe4fghECp8PlQTR/view?usp=sharing">Digital Credit Management</a>
     <div class="resource-link">
-        📄 <a href="https://drive.google.com/file/d/1bjMkLQeG2oqDVc811fksMlIV42s-GVrx/view?usp=sharing">Advanced International Credit Management</a>
+        📄 <a href="https://drive.google.com/file/d/1bjMkLQeG2oqDVc811fksMlIV42s-GVrx/view?usp=sharing">Advanced International Credit Management 1</a>
     <div class="resource-link">
 	📄 <a href="https://drive.google.com/file/d/16nNjUvWgH4YVcHzYEouBCPOxcYM3eFJp/view?usp=sharing">Emotional Intelligence for Sales Success</a>
     <div class="resource-link">
 	📄 <a href="https://drive.google.com/file/d/19gTwZn71n5hV6l3r9IXgfPkrfJSO9RIo/view?usp=sharing">Sales Prospecting and Lead Generation</a>
     <div class="resource-link">
+
+	📄 <a href="https://drive.google.com/file/d/12lG3nEfjFRFVCiDu-vCEMqA7hiJ0x8rO/view?usp=sharing">Advanced International Credit Management 2</a>
+    <div class="resource-link">
+
+	📄 <a href="https://drive.google.com/file/d/1FAXw3JA8c3UX-9rI624L48dW1ccDZkzU/view?usp=sharing">Financial Management </a>
+    <div class="resource-link">
+
 
     <!-- Add more resource links here -->
 </div>
