@@ -180,6 +180,9 @@ Whether you are a business leader seeking strategic insights, a professional aim
 	📄 <a href="https://drive.google.com/file/d/1FAXw3JA8c3UX-9rI624L48dW1ccDZkzU/view?usp=sharing">Financial Management </a>
     <div class="resource-link">
 
+	📄 <a href="https://drive.google.com/file/d/1rt24cwPwf-t1k0RwK0LVgiDezF4X6Lm0/view?usp=sharing">Advanced International Credit Management 3 </a>
+    <div class="resource-link">
+
 
     <!-- Add more resource links here -->
 </div>
