@@ -183,6 +183,19 @@ Whether you are a business leader seeking strategic insights, a professional aim
 	📄 <a href="https://drive.google.com/file/d/1rt24cwPwf-t1k0RwK0LVgiDezF4X6Lm0/view?usp=sharing">Advanced International Credit Management 3 </a>
     <div class="resource-link">
 
+	📄 <a href="https://drive.google.com/file/d/1MjBmScLeOad71Ds-avKmWoKCVl8-JHxI/view?usp=sharing">Negotiation & Persuasion in Sales </a>
+    <div class="resource-link">
+
+	📄 <a href="https://drive.google.com/file/d/1faK1WuaQ1_A8Rgc9SHEeBJVV1JY1-TXU/view?usp=sharing">Best Practices in Sales Using CRM </a>
+    <div class="resource-link">
+
+	📄 <a href="https://drive.google.com/file/d/1LOaFGHBC53_fSmRECFFJBuxAjixgHcA7/view?usp=sharing">Understanding Customer Needs & Pain Points </a>
+    <div class="resource-link">
+
+	📄 <a href="https://drive.google.com/file/d/1lkMwjOH_ydG_GcTPengElCr7aQEwAkq5/view?usp=sharing">Time Management & Productivity </a>
+    <div class="resource-link">
+
+
 
     <!-- Add more resource links here -->
 </div>
