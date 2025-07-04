@@ -199,6 +199,12 @@ Whether you are a business leader seeking strategic insights, a professional aim
     <div class="resource-link">
 
 
+📄 <a href="https://drive.google.com/file/d/1-sQuz36dbMFVypzbeMa2gE832DhVruyC/view?usp=sharing">Financial Management 2 </a>
+    <div class="resource-link">
+
+
+📄 <a href="https://drive.google.com/file/d/1eWl94SsG-M_rPE5vfdY2Zj9plMhuUxTN/view?usp=sharing">Advanced International Credit Management 4 </a>
+    <div class="resource-link">
 
 
     <!-- Add more resource links here -->
