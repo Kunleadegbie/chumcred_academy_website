@@ -195,6 +195,8 @@ Whether you are a business leader seeking strategic insights, a professional aim
 	📄 <a href="https://drive.google.com/file/d/1lkMwjOH_ydG_GcTPengElCr7aQEwAkq5/view?usp=sharing">Time Management & Productivity </a>
     <div class="resource-link">
 
+📄 <a href="https://https://1drv.ms/b/c/d9c45e6487ee8671/Ef2qAO5299xDlFl3VI4PIuwBdSb_x8U9omtvdU6Ctq5ymw?e=DhhTC4">Pricing Strategies & Value-Based Selling </a>
+    <div class="resource-link">
 
 
     <!-- Add more resource links here -->
