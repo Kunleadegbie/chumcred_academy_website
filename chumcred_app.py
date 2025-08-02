@@ -10,8 +10,11 @@ logo = Image.open("images/logo.png")
 # Display logo
 st.image(logo, width=250)
 
+# --- Embedded HTML Interface ---
+
 # HTML + CSS + JS template
 html_code = """
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -72,6 +75,7 @@ html_code = """
         }
     </script>
 </head>
+
 <body>
 
 <div class="navbar">
@@ -80,12 +84,22 @@ html_code = """
     <a href="javascript:void(0)" onclick="scrollToSection('services')">Services</a>
     <a href="javascript:void(0)" onclick="scrollToSection('contact')">Contact Us</a>
     <a href="javascript:void(0)" onclick="scrollToSection('blog')">Blog</a>
+    <a href="javascript:void(0)" onclick="scrollToSection('webinar')">Webinar</a>
+
 </div>
+
+<!-- REMAINING HTML CONTENT UNCHANGED -->
+
+</body>
+
+
+# Render HTML
+st.components.v1.html(html_code, height=1500, scrolling=True)
 
 <div id="about" class="section about">
     <h2>About Us</h2>
-    <p  style="text-align: justify;">Chumcred Academy is a subsidiary of Chumcred Limited — a forward-thinking training and capacity development institute. 
-    We empower individuals and businesses with relevant, market-driven knowledge and practical skills tailored to today’s fast-changing world.
+    <p  style="text-align: justify;">Chumcred Academy is a subsidiary of Chumcred Limited, a forward-thinking training and capacity development institute. 
+    We empower individuals and businesses with relevant, market-driven knowledge and practical skills tailored to today\’s fast-changing world.
 Welcome to Chumcred Academy — your trusted partner for transformative education, training, and professional development.<br> <br>
 Chumcred Academy is the educational and capacity-building arm of Chumcred Limited, a dynamic enterprise committed to delivering strategic business support, professional consulting, and human capital development solutions. Our Academy was established as an integral part of the Chumcred ecosystem, operating as a dedicated platform for nurturing talents, enhancing skills, and providing market-relevant education without constituting a separate legal entity. <br> <br>
 At Chumcred Academy, we understand the pivotal role that continuous learning and strategic capacity building play in today’s fast-paced, technology-driven, and increasingly volatile global economy. Our mission is to empower individuals, organizations, and institutions with the knowledge, competencies, and practical tools they need to thrive in competitive business environments and ever-evolving industries.
@@ -209,6 +223,14 @@ Whether you are a business leader seeking strategic insights, a professional aim
 📄 <a href="https://drive.google.com/file/d/1nfEvYt1pYkLrglD2tKjDSfrSp9ewSkzD/view?usp=sharing">Advanced Credit & Financial Analysis </a>
     <div class="resource-link">
 
+📄 <a href="https://drive.google.com/file/d/1hm25MfZymkykYvn2eczKmv1AQwBg9Hgt/view?usp=sharing">Financial Management 3 </a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/1UsZI3VSxiRTfTmthTvDEQpJU1EUQwBiy/view?usp=sharing">Advanced International Credit Management 5 </a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/1JiCY2p7wFegZcSwDMKO5bWBnW_mBaeOk/view?usp=sharing">Advanced International Credit Management 6 </a>
+    <div class="resource-link">
 
 
     <!-- Add more resource links here -->
@@ -330,10 +352,28 @@ Stay tuned for updates via our website and newsletter as we prepare to unveil fi
  
 </p>
 
+</div>
 
 
+<div id="webinar" class="section webinar">
+  <h2>📊 Upcoming Webinar</h2>
+  <div style="text-align: center;">
+    <img src="https://i.imgur.com/sHkmuzM.jpg" alt="Webinar Poster" style="width: 50%;">
+  </div>
+  <p style="text-align: justify;">
+    🔍 <strong>Are you ready to uncover deep credit insights using AI?</strong><br><br>
+    Join <strong>Chumcred Academy</strong> as we explore how AI can revolutionize financial analysis and credit modeling.<br><br>
 
+    📅 <strong>Date:</strong> Aug 20, 2025<br>
+    🕙 <strong>Time:</strong> 10 AM WAT<br>
+    🎤 <strong>Speaker:</strong> Dr. Kunle Adegbie<br><br>
 
+    ✅ Free to attend<br>
+    ✅ Open to Analysts, Bankers, Financial Experts, Students etc<br>
+    ✅ No technical background required<br><br>
+
+    👆 Scan the QR on the poster or register now.
+  </p>
 </div>
 
 <div id="contact" class="section contact">
@@ -361,5 +401,9 @@ For inquiries, partnership opportunities, or to register for our upcoming traini
 </html>
 """
 
+
 # Render HTML
 st.components.v1.html(html_code, height=1500, scrolling=True)
+
+
+
