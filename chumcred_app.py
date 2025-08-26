@@ -232,6 +232,20 @@ Whether you are a business leader seeking strategic insights, a professional aim
 📄 <a href="https://drive.google.com/file/d/1JiCY2p7wFegZcSwDMKO5bWBnW_mBaeOk/view?usp=sharing">Advanced International Credit Management 6 </a>
     <div class="resource-link">
 
+📄 <a href="https://drive.google.com/file/d/11ovvofKL2SEWy-RfmiBMlPXb4UP_KOJM/view?usp=sharing">Financial Management 4 </a>
+    <div class="resource-link">
+
+
+📄 <a href="https://drive.google.com/file/d/1cTvy2o6CS5gEvo0fIwAetdEmMC_ackhD/view?usp=sharing">Advanced International Credit Management 7</a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/1125NJZjleP609uDwhCiRmARv-cNYIz4L/view?usp=sharing">Advanced International Credit Management 8</a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/13UMRBDsxuIUDqzWpGyrh6xaSgITqeZVB/view?usp=sharing">Compliance and Ethics in Sales</a>
+    <div class="resource-link">
+
+
 
     <!-- Add more resource links here -->
 </div>
