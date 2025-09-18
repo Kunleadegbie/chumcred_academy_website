@@ -245,6 +245,18 @@ Whether you are a business leader seeking strategic insights, a professional aim
 📄 <a href="https://drive.google.com/file/d/13UMRBDsxuIUDqzWpGyrh6xaSgITqeZVB/view?usp=sharing">Compliance and Ethics in Sales</a>
     <div class="resource-link">
 
+📄 <a href="https://drive.google.com/file/d/1rGuTOrhUra38oDnwdRGpxJZMC2FeX5Eg/view?usp=sharing">Using AI Essentials in interpreting retail sales reports</a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/1I5kGcZCkdlpzpviCSsxhFPVPw0482kiC/view?usp=sharing">Using Using AI for Credit & Financial Analysis</a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/1HbtKEQMzycr4_O_1LK0jtdWMezHn5QUq/view?usp=sharing"> Confident Building & Assertiveness In Sales</a>
+    <div class="resource-link">
+
+
+📄 <a href="https://drive.google.com/file/d/1jtkJq3DRCIeNra_hKQ9QZ1rUJ9To6e7P/view?usp=sharing">Advanced International Credit Management 9</a>
+    <div class="resource-link">
 
 
     <!-- Add more resource links here -->
