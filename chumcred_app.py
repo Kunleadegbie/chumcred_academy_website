@@ -258,6 +258,21 @@ Whether you are a business leader seeking strategic insights, a professional aim
 📄 <a href="https://drive.google.com/file/d/1jtkJq3DRCIeNra_hKQ9QZ1rUJ9To6e7P/view?usp=sharing">Advanced International Credit Management 9</a>
     <div class="resource-link">
 
+📄 <a href="https://drive.google.com/file/d/14BqSrfs8arOHovQtlA6nlCEs6JCWjXzE/view?usp=sharing">Cost Implications of Digital Transformation and Technology Adoption</a>
+    <div class="resource-link">
+
+
+📄 <a href="https://drive.google.com/file/d/1FIPT8N0tcrr-JDvNXw8qob2UI9qkFiyD/view?usp=sharing">Identifying Cost Drivers in Service and Production Sectors Adoption</a>
+    <div class="resource-link">
+
+
+📄 <a href="https://drive.google.com/file/d/1y_QRrtM2gaNMROUe5Z2EFbM8nsFqqxke/view?usp=sharing">Teaming For Excellence in Sales</a>
+    <div class="resource-link">
+
+📄 <a href="https://drive.google.com/file/d/12mbbTDitpsyOzNEBUywhKnO5Saom0seZ/view?usp=sharing">Using Financial and Non-Financial Metrics for Cost Monitoring</a>
+    <div class="resource-link">
+
+
 
     <!-- Add more resource links here -->
 </div>
